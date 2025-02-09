@@ -1,0 +1,36 @@
+header{
+    display: flex;
+    align-items: center;  
+    padding: 25px;
+
+}
+.logo{
+    height: 80px;
+    
+}
+.header-text{
+    font-size: 24px;
+    font-weight: bold;
+    
+}
+.header{
+    display: flex ;
+    font-size: larger;
+    position: right ;
+    margin-left: auto;
+    
+}
+.Hero{
+   margin-top: 15%;
+    margin-left: 50%;
+ 
+}
+.description{
+    margin-left: 50%;
+}
+.Experience { 
+
+    border: 50px;
+    
+
+}
